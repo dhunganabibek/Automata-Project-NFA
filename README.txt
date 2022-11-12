@@ -1,3 +1,5 @@
+TEAM MEMBERS: Santona Subedi, Dhan Limbu, Bibek Dhungana
+
 The project is implementation of NFA. It takes a string input and decides if the 
 given input is accepted or rejected by the NFA.
 
